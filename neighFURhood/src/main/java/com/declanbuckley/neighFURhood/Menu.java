@@ -1,4 +1,4 @@
-
+package com.declanbuckley.neighFURhood;
 
     import java.util.Scanner;
 import java.util.ArrayList;

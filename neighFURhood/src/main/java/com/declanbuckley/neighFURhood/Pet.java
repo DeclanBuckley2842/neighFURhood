@@ -1,3 +1,4 @@
+package com.declanbuckley.neighFURhood;
 class   Pet       
 {
     // set

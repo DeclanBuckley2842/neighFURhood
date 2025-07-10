@@ -1,3 +1,4 @@
+package com.declanbuckley.neighFURhood;
 import java.util.ArrayList;
 public class PetArray  // Change ClassName to your class name
 {
